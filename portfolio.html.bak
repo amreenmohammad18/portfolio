@@ -45,13 +45,13 @@
                 <div class="myworks">
                     <a href="https://amreenmohammad18.github.io/product/">
                         <div class="c1 card" data-name="websites">
-                          <img src="images/htmlimg.png" style="width:400px;height:300px;border-radius:20px;"/>
+                          <img src="images/website.jpg" style="width:400px;height:300px;border-radius:20px;"/>
                           <div class="work">
                            <h3 class="text">Html Website</h3>
                         </div>
                            <div class="buttonss">
-                            <a href="https://amreenmohammad18.github.io/htmlsite/" class="btn4" style="margin-left: -15px;">Live Demo</a>
-                            <a href="https://github.com/amreenmohammad18/htmlsite" class="btn4" style="margin-left: 20px;">Github</a>
+                            <a href="https://amreenmohammad18.github.io/product/" class="btn4" style="margin-left: -15px;">Live Demo</a>
+                            <a href="https://github.com/amreenmohammad18/product.git" class="btn4" style="margin-left: 20px;">Github</a>
                         </div>
                           
                         </div>
